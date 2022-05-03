@@ -1,0 +1,72 @@
+body 
+{
+  text-align:center;
+  background:linear-gradient (#E1BEE7 0%, #90CAF9 100%);
+  
+ background-image: url("http://getwallpapers.com/wallpaper/full/3/1/8/183215.jpg");
+ background-color: #cccccc;
+}
+h1{
+  
+  text-shadow:2px 2px #F8BBDO;
+  font-size:100px;
+  font-family: 'Bungee', cursive;
+font-family: 'MonteCarlo', cursive;
+}
+h3{
+  text-shadow:2px 2p
+    #F8BBDO;
+  font-size:100px;
+}
+#bio{
+  padding:20px;
+  font-size:10;
+  text-align:center;
+}
+.link:hover
+{
+  backgroung-color:beige;
+}
+li {
+  display: inline;
+  float:left;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+}
+img:hover {
+   transform: scale(0.9);
+}
+img {
+  height:350px;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+
+#contact iframe
+{
+    width: 50%;
+}
+
+.contact_1 h3
+{
+    display: inline;
+  font-size:20px;
+}
+
